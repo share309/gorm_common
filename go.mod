@@ -1,4 +1,4 @@
-module gorm_common
+module github.com/share309/gorm_common
 
 go 1.18
 
