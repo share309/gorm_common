@@ -1,7 +1,6 @@
 package dao
 
 import (
-	"gorm.io/gorm"
 	"gorm_common/global"
 )
 
